@@ -1,0 +1,14 @@
+# Generated HL7 output
+out/
+*.hl7
+
+# Python
+__pycache__/
+*.pyc
+
+# Envs
+.venv/
+.env
+
+# OS junk
+.DS_Store
