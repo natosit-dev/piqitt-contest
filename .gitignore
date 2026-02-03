@@ -12,3 +12,4 @@ __pycache__/
 
 # OS junk
 .DS_Store
+control_id_counter.txt
